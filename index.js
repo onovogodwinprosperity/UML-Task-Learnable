@@ -24,8 +24,8 @@ class RealEstate {
   
   // Example usage:
   const property1 = new RealEstate(1, "Emene-Nike", "Enugu", 750000);
-  const property2 = new RealEstate(2, "Owoh", "Florida", 500000);
-  const property3 = new RealEstate(3, "Mountain Retreat", "Enugu", 850000);
+  const property2 = new RealEstate(2, "Owoh", "Enugu", 500000);
+  const property3 = new RealEstate(3, "Nkanu-East", "Enugu", 850000);
   
   console.log(property1.displayDetails());
   console.log(property2.displayDetails());
